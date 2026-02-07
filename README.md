@@ -25,6 +25,11 @@ To tackle the problem, stakeholders want to learn about what might be driving th
 3. Tree-based modeling - Random forest and XGBoost
 4. Summary & recommendations
 
+### Deliverables
+1. [Jupyter notebook](https://github.com/morinousagi/ml-rf-xgb-salifort/blob/main/gada-capstone-salifort.ipynb)
+2. [Summary report](https://github.com/morinousagi/ml-rf-xgb-salifort/blob/main/salifort-summary-report.pdf)
+3. Further insights presented in [Tableau story](https://public.tableau.com/app/profile/morinousagi/viz/WIP_17669147168610/Story1)
+
 ### Data dictionary 
 
 - Dataset: *HR_capstone_dataset.csv*

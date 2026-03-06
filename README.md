@@ -1,4 +1,3 @@
-## Google Advanced Data Analytics Capstone Project: 
 ## Develop a model to predict employee departure
 
 ### Problem statement 
@@ -28,7 +27,7 @@ To tackle the problem, stakeholders want to learn about what might be driving th
 ### Deliverables
 1. [Jupyter notebook](https://github.com/morinousagi/ml-rf-xgb-salifort/blob/main/gada-capstone-salifort.ipynb)
 2. [Summary report](https://github.com/morinousagi/ml-rf-xgb-salifort/blob/main/salifort-summary-report.pdf)
-3. Further insights presented in [Tableau story](https://public.tableau.com/app/profile/morinousagi/viz/WIP_17669147168610/Story1)
+3. Additional insights presented in [Tableau story](https://public.tableau.com/app/profile/morinousagi/viz/WIP_17669147168610/Story1)
 
 ### Data dictionary 
 

@@ -1,5 +1,7 @@
 ## Develop a model to predict employee departure
 
+(Google Advance Data Analytics Course Project)
+
 ### Problem statement 
 
 High rate of turnover among Salifort Motors (multinational vehicle manufacturing corporation) employees, which is costly in the financial sense.

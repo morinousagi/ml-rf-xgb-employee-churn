@@ -19,7 +19,7 @@ To tackle the problem, stakeholders want to learn about what might be driving th
 
 ### Project milestones
 
-1. EDA & data visualisations (includes statistics, data cleaning, ethical considerations)
+1. EDA & data visualisations (includes statistics, data cleaning, ethical considerations, feature engineering)
 2. Logistic regression modeling
 3. Tree-based modeling - Random forest and XGBoost
 4. Summary & recommendations
